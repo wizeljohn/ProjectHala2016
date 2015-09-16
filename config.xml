@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="come.weizandcompany.Hala16" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Hala2016</name>
+    <description>
+        A sample Apache Cordova application that responds to the deviceready event.
+    </description>
+    <gap:plugin name="com.phonegap.plugins.facebookconnect" version="0.4.0">
+        <param name="APP_ID" value="1709102955977482" />
+        <param name="APP_NAME" value="hala2016" />
+    </gap:plugin>
+</widget>
